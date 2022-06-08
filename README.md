@@ -4,7 +4,7 @@ I am a Front end developer at [Virtual Azerbaijan Group of Companies](https://va
 
 - 🌱 I’m currently learning how to be good software engineer
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about HTML CSS BOOSTRAPP MATERIAL-UI JAVASCRIPT REACT NEXT REDUX HOOKS
+- 💬 Ask me about HTML, CSS, BOOSTRAPP, MATERIAL-UI, ANT-DESIGN, JAVASCRIPT, REACT JS, NEXT JS, REDUX, REACT HOOKS,
 
 ### Connect with me:
 
