@@ -25,7 +25,7 @@ I am a Front end developer at [Virtual Azerbaijan Group of Companies](https://va
 <img align="left" alt="Visual Studio Code" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
 <img align="left" alt="Visual Studio Code" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="Visual Studio Code" height="36px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
-<img align="left" alt="Visual Studio Code" height="36px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/angular-icon-logo.png" />
+<!-- <img align="left" alt="Visual Studio Code" height="36px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/angular-icon-logo.png" /> -->
 <img align="left" alt="Firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
