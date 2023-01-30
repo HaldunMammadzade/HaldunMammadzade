@@ -18,8 +18,8 @@ I am a Front end developer at [Virtual Azerbaijan Group of Companies](https://va
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" height="36px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" />
+<!-- <img align="left" alt="Visual Studio Code" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" height="36px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" /> -->
 <img align="left" alt="Visual Studio Code" height="36px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />
 <img align="left" alt="Visual Studio Code" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="Visual Studio Code" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
