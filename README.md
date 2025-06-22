@@ -1,17 +1,35 @@
-# Hi there! 👋 I'm Haldun Mammadzada
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+Vue.js;4%2B+Years+Experience;Building+Amazing+Web+Apps" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haldun%20Mammadzada&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-## 🚀 Senior Frontend Developer from Azerbaijan 🇦🇿
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Welcome to my Digital Universe!
 
-Passionate about creating exceptional user experiences through modern web technologies. I build scalable, performant, and visually stunning applications that make a difference.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Senior+Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue.js+Expert;4%2B+Years+of+Amazing+Experiences;Turning+Ideas+into+Digital+Reality+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Senior Frontend Developer from Azerbaijan 🇦🇿
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+Passionate about creating **exceptional user experiences** through modern web technologies. I build scalable, performant, and visually stunning applications that make a difference.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://haldunmammadzada.website)
-[![Available for Work](https://img.shields.io/badge/Available%20for%20Work-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=FF5722)](https://haldunmammadzada.website)
+[![Available for Work](https://img.shields.io/badge/Available%20for%20Work-00C851?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=00C851)]()
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white&labelColor=FF6B6B)]()
 
 </div>
 
@@ -40,7 +58,9 @@ Passionate about creating exceptional user experiences through modern web techno
 
 </div>
 
-### 🎯 What I Do
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> What I Do
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ```javascript
 const haldun = {
@@ -55,9 +75,12 @@ const haldun = {
     focus: 'Building scalable web applications'
   },
   currentFocus: 'Teaching & Mentoring Future Developers',
-  funFact: 'I love bringing designs to life with code! 🎨'
+  funFact: 'I love bringing designs to life with code! 🎨',
+  workingOn: 'Next-gen web experiences ✨'
 };
 ```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 🌟 Expertise Areas
 
@@ -84,15 +107,19 @@ const haldun = {
 </tr>
 </table>
 
-### 📊 GitHub Analytics
+### <img src="https://user-images.githubusercontent.com/74038190/197350977-8b61a630-d756-4b87-8c7e-fee45de0d8c6.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaldunMammadzade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaldunMammadzade&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaldunMammadzade&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0,ec2075,f74a5c,f54d5d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaldunMammadzade&layout=compact&theme=radical&border_radius=20&bg_color=0,ec2075,f74a5c,f54d5d"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaldunMammadzade&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaldunMammadzade&theme=radical&border_radius=20&background=45%2C%23ec2075%2C%23f54d5d" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaldunMammadzade&custom_title=Haldun's%20GitHub%20Activity%20Graph&bg_color=0,ec2075,f74a5c,f54d5d&color=fff&line=fff&point=fff&area=true&hide_border=true"/>
 </div>
 
 ### 🤝 Connect With Me
@@ -107,7 +134,9 @@ const haldun = {
 
 </div>
 
-### 🔥 Current Focus
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Current Focus
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
 - 🚀 Building next-generation web applications
 - 🎓 Teaching modern frontend development  
@@ -115,16 +144,20 @@ const haldun = {
 - 💼 Open to exciting frontend opportunities
 - 🌐 Check out my work at [haldunmammadzada.website](https://haldunmammadzada.website)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ---
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=HaldunMammadzade&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=HaldunMammadzade&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 **"Code is poetry written in logic"** ✨
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 </div>
