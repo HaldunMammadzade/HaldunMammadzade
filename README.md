@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Senior+Frontend+Developer+%F0%9F%9A%80;React+%7C+Typescript+%7C+Next.js+%7C+Vue.js;5%2B+Years+of+Web+Development;Turning+Ideas+into+Digital+Reality+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
+
+
+
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" width="300">
 </div>
