@@ -1,162 +1,156 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haldun%20Mammadzada&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,40:0d1b2a,100:1a0533&height=220&section=header&text=Haldun%20Mammadzada&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Senior%20Frontend%20Developer%20%7C%20🇦🇿%20Azerbaijan&descAlignY=72&descAlign=50&descSize=18&descColor=7dd3fc"/>
 </div>
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Welcome to my Digital Universe!
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Senior+Frontend+Developer+%F0%9F%9A%80;React+%7C+Typescript+%7C+Next.js+%7C+Vue.js;5%2B+Years+of+Web+Development;Turning+Ideas+into+Digital+Reality+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7dd3fc&center=true&vCenter=true&width=680&lines=⚡+Building+pixel-perfect+web+experiences;🧠+React+·+TypeScript+·+Next.js+·+Vue.js;🎨+Where+design+meets+engineering+precision;🚀+5%2B+years+of+shipping+production+apps;💡+Open+to+exciting+frontend+opportunities" alt="Typing SVG" />
 </div>
 
-
-
-
+<br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" width="300">
+  <a href="https://haldunmammadzada.website">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-haldunmammadzada.website-7dd3fc?style=for-the-badge&labelColor=0d1b2a&color=1e3a5f"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HaldunMammadzade&style=for-the-badge&color=1e3a5f&label=PROFILE+VIEWS&labelColor=0d1b2a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=0d1b2a"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Senior Frontend Developer from Azerbaijan 🇦🇿
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-Passionate about creating **exceptional user experiences** through modern web technologies. I build scalable, performant, and visually stunning applications that make a difference.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=FF5722)](https://haldunmammadzada.website)
-[![Available for Work](https://img.shields.io/badge/Available%20for%20Work-00C851?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=00C851)]()
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white&labelColor=FF6B6B)]()
-
-</div>
-
-### 💻 Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> What I Do
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-```javascript
-const haldun = {
-  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
-  askMeAbout: ['web dev', 'tech', 'UI/UX', 'performance'],
-  technologies: {
-    frontEnd: {
-      js: ['React', 'Next.js', 'Vue.js'],
-      css: ['Tailwind', 'Material-UI', 'Ant Design']
-    },
-    tools: ['Git', 'Webpack', 'Figma', 'Redux'],
-    focus: 'Building scalable web applications'
-  },
-  currentFocus: 'Teaching & Mentoring Future Developers',
-  funFact: 'I love bringing designs to life with code! 🎨',
-  workingOn: 'Next-gen web experiences ✨'
-};
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### 🌟 Expertise Areas
-
-<table>
-<tr>
-<td width="50%">
-
-🎨 **Frontend Development**
-- Modern React.js applications
-- Next.js full-stack solutions  
-- Vue.js interactive interfaces
-- Responsive & mobile-first design
-
-</td>
-<td width="50%">
-
-⚡ **Performance & Optimization**
-- Web performance optimization
-- SEO implementation
-- Accessibility standards
-- Cross-browser compatibility
-
-</td>
-</tr>
-</table>
-
-### <img src="https://user-images.githubusercontent.com/74038190/197350977-8b61a630-d756-4b87-8c7e-fee45de0d8c6.gif" width="30"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaldunMammadzade&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0,ec2075,f74a5c,f54d5d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaldunMammadzade&layout=compact&theme=radical&border_radius=20&bg_color=0,ec2075,f74a5c,f54d5d"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaldunMammadzade&theme=radical&border_radius=20&background=45%2C%23ec2075%2C%23f54d5d" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaldunMammadzade&custom_title=Haldun's%20GitHub%20Activity%20Graph&bg_color=0,ec2075,f74a5c,f54d5d&color=fff&line=fff&point=fff&area=true&hide_border=true"/>
-</div>
-
-### 🤝 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://haldunmammadzada.website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haldun-mammadzada/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haldun.mammadzada@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haldun__m/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haldun_mammadzade)
-
-</div>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Current Focus
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
-- 🚀 Building next-generation web applications
-- 🎓 Teaching modern frontend development  
-- 🌱 Exploring AI integration in web development
-- 💼 Open to exciting frontend opportunities
-- 🌐 Check out my work at [haldunmammadzada.website](https://haldunmammadzada.website)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br/>
 
 ---
 
-<div align="center">
+## `whoami`
+
+```typescript
+const haldun: SeniorFrontendDeveloper = {
+  location:    "🇦🇿 Baku, Azerbaijan",
+  experience:  "5+ years in production web development",
   
-![](https://komarev.com/ghpvc/?username=HaldunMammadzade&color=blueviolet&style=for-the-badge&label=Profile+Views)
+  stack: {
+    languages:  ["TypeScript", "JavaScript", "HTML5", "CSS3"],
+    frameworks: ["React.js", "Next.js", "Vue.js", "Nuxt.js"],
+    styling:    ["Tailwind CSS", "MUI", "Ant Design", "Styled Components"],
+    state:      ["Redux Toolkit", "Zustand", "React Query", "Pinia"],
+    tooling:    ["Vite", "Webpack", "Git", "Figma", "Docker"],
+  },
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  currentlyDoing: [
+    "🚀 Architecting scalable SPAs and SSR apps",
+    "🎓 Mentoring the next generation of developers",
+    "🔬 Exploring AI integration in modern frontends",
+  ],
 
-**"Code is poetry written in logic"** ✨
+  reachMe:   "haldun.mammadzada@gmail.com",
+  portfolio: "https://haldunmammadzada.website",
+  belief:    "Clean UI is not decoration — it is communication. ✦",
+};
+```
+
+---
+
+## ⚔ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1b2a?style=for-the-badge&logo=typescript&logoColor=7dd3fc&labelColor=1e3a5f)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1e3a5f)
+![HTML5](https://img.shields.io/badge/HTML5-0d1b2a?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=1e3a5f)
+![CSS3](https://img.shields.io/badge/CSS3-0d1b2a?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1e3a5f)
+
+**Frameworks**
+
+![React](https://img.shields.io/badge/React.js-0d1b2a?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1e3a5f)
+![Next.js](https://img.shields.io/badge/Next.js-0d1b2a?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1e3a5f)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1b2a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=1e3a5f)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-0d1b2a?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82&labelColor=1e3a5f)
+
+**Styling**
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0d1b2a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=1e3a5f)
+![MUI](https://img.shields.io/badge/Material_UI-0d1b2a?style=for-the-badge&logo=mui&logoColor=0081CB&labelColor=1e3a5f)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0d1b2a?style=for-the-badge&logo=antdesign&logoColor=0170FE&labelColor=1e3a5f)
+![Styled Components](https://img.shields.io/badge/Styled_Components-0d1b2a?style=for-the-badge&logo=styledcomponents&logoColor=DB7093&labelColor=1e3a5f)
+
+**Tooling**
+
+![Redux](https://img.shields.io/badge/Redux-0d1b2a?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=1e3a5f)
+![Vite](https://img.shields.io/badge/Vite-0d1b2a?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=1e3a5f)
+![Webpack](https://img.shields.io/badge/Webpack-0d1b2a?style=for-the-badge&logo=webpack&logoColor=8DD6F9&labelColor=1e3a5f)
+![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=F05033&labelColor=1e3a5f)
+![Figma](https://img.shields.io/badge/Figma-0d1b2a?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=1e3a5f)
+![Docker](https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=1e3a5f)
 
 </div>
 
+---
+
+## 🏆 Trophies
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HaldunMammadzade&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaldunMammadzade&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=0d1b2a&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1&ring_color=7dd3fc"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HaldunMammadzade&hide_border=true&border_radius=16&background=0d1b2a&ring=7dd3fc&fire=f87171&currStreakLabel=7dd3fc&sideLabels=cbd5e1&dates=cbd5e1&stroke=1e3a5f&currStreakNum=ffffff&sideNums=ffffff"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaldunMammadzade&layout=compact&hide_border=true&border_radius=16&bg_color=0d1b2a&title_color=7dd3fc&text_color=cbd5e1"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaldunMammadzade&bg_color=0d1b2a&color=7dd3fc&line=1e3a5f&point=7dd3fc&area=true&area_color=1e3a5f&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaldunMammadzade/HaldunMammadzade/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaldunMammadzade/HaldunMammadzade/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/HaldunMammadzade/HaldunMammadzade/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/haldunmammadzada.website-0d1b2a?style=for-the-badge&logo=vercel&logoColor=7dd3fc&labelColor=1e3a5f)](https://haldunmammadzada.website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1e3a5f)](https://www.linkedin.com/in/haldun-mammadzada/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1b2a?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1e3a5f)](mailto:haldun.mammadzada@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1b2a?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=1e3a5f)](https://www.instagram.com/haldun__m/)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1b2a?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=1e3a5f)](https://t.me/haldun_mammadzade)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,40:0d1b2a,100:1a0533&height=140&section=footer&animation=fadeIn"/>
 </div>
