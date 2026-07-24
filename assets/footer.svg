@@ -1,0 +1,25 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neon" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#22e4ff"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ff2ec4"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1200 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <text x="600" y="34" text-anchor="middle" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="16" letter-spacing="4" fill="#8b5cf6">&#10022; SEE YOU IN THE COMMITS &#10022;</text>
+
+  <path fill="url(#neon)" opacity="0.35">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0,90 C200,50 400,130 600,90 C800,50 1000,130 1200,90 L1200,160 L0,160 Z;
+              M0,90 C200,130 400,50 600,90 C800,130 1000,50 1200,90 L1200,160 L0,160 Z;
+              M0,90 C200,50 400,130 600,90 C800,50 1000,130 1200,90 L1200,160 L0,160 Z"/>
+  </path>
+  <path fill="#0f0c29">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="M0,110 C200,140 400,80 600,110 C800,140 1000,80 1200,110 L1200,160 L0,160 Z;
+              M0,110 C200,80 400,140 600,110 C800,80 1000,140 1200,110 L1200,160 L0,160 Z;
+              M0,110 C200,140 400,80 600,110 C800,140 1000,80 1200,110 L1200,160 L0,160 Z"/>
+  </path>
+</svg>
