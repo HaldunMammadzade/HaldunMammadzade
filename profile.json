@@ -1,0 +1,31 @@
+{
+  "github_username": "HaldunMammadzade",
+  "headline": "haldun@mammadzada",
+  "avatar_url": "https://avatars.githubusercontent.com/u/72292781?v=4",
+  "avatar_crop": [0.2, 0.0, 0.8, 0.78],
+  "identity": {
+    "role": "Senior Frontend Engineer",
+    "company": "@Arbinex",
+    "location": "Baku, Azerbaijan",
+    "uptime": "6 years"
+  },
+  "environment": {
+    "os": "Cross-platform",
+    "editors": "Cursor, VS Code",
+    "languages": "TypeScript, JavaScript",
+    "infrastructure": "Docker, Node.js",
+    "spoken_languages": "Azerbaijani, English",
+    "interests": "Motion, mentoring"
+  },
+  "contacts": {
+    "linkedin": "linkedin.com/in/haldun-mammadzada",
+    "portfolio": "haldunmammadzada.website"
+  },
+  "stats": {
+    "repositories": null,
+    "contributed": null,
+    "contributions": null,
+    "followers": null,
+    "stars": null
+  }
+}
